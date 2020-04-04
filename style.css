@@ -4,9 +4,9 @@ body{
 }
 #container{
 	width: 1000px;
-	height: 550px;
+	height: 600px;
 	background-image: linear-gradient(to right, rgb(168, 228, 252) 10%, rgb(112, 209, 248) 80%);
-    margin: 20px auto;
+    margin: 30px auto;
     border-radius: 10px;
     box-shadow: 5px 5px 100px lightgray;	
 }
@@ -15,7 +15,7 @@ body{
 	height: 520px;
 	background-color: #eaedef;
 	margin: 0 auto;
-	top: 20px;
+	top: 50px;
 	position: relative;
 	border-radius: 10px;
 	box-shadow: 5px 5px 10px lightgray;
